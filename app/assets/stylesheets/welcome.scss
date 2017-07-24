@@ -1,0 +1,26 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.test-border-red{
+	border-style: solid;
+	border-color: red;
+}
+.test-border-blue{
+	border-style: solid;
+	border-color: blue;
+}
+.test-border-green{
+	border-style: solid;
+	border-color: green;
+}
+.test-border{
+	border-style: solid;
+	border-color: red;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+            text-decoration: none;
+		}
